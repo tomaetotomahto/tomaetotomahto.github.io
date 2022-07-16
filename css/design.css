@@ -1,0 +1,152 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  text-align: center;
+  line-height: 2;
+  /*background-color: #FFEDD3;*/
+}
+
+.intro {
+  background-color: #FF5C58;
+  line-height: 1;
+}
+
+.page {
+  float: left;
+  height: 100vh;
+  width: 100%;
+  position: relative;
+}
+
+h1 {
+  font-family: 'Syne', sans-serif;
+  font-size: 10em;
+  margin: auto auto;
+  padding-top: 280px;
+  margin-bottom: 0;
+  /*color: #FFEDD3;*/
+  color: #F9F9F9;
+}
+
+h2 {
+  font-family: 'Syne', sans-serif;
+  font-size: 2em;
+  margin: auto auto;
+  padding: 0;
+  color: #F9F9F9;
+}
+
+.socials {
+  position: fixed;
+  width: 4%;
+  height: 100%;
+  padding-top: 300px;
+  margin-right: 10px;
+  z-index: 2;
+}
+
+h3 {
+  font-size: 5em;
+  color: #FF5C58;
+  font-family: 'Syne', sans-serif;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+p {
+  width: 30%;
+}
+
+.about {
+  padding-top: 30vh;
+}
+
+.leftaln {
+  text-align: left;
+  padding-left: 200px;
+}
+
+.rightaln {
+  text-align: right;
+  margin-right: 100px;
+  margin-left: auto;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a:hover {
+  color: #FCD2D1;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img {
+  border-radius: 100%;
+  float: right;
+  width: 220px;
+  position: absolute;
+}
+
+.studying {
+  top: 13%;
+  right: 20%;
+}
+
+.swimming {
+  top: 33%;
+  right: 20%;
+}
+
+.reading {
+  top: 65%;
+  right: 20%;
+}
+
+h4 {
+  color: #FE8F8F;
+  font-size: 2em;
+  margin: 0;
+}
+
+.foot {
+  background-color: #FF5C58;
+}
+
+.foottext {
+  margin: auto;
+  padding-top: 30px;
+  width: 20%;
+  color: #F9F9F9;
+}
+
+.contact {
+  padding-top: 40px;
+}
+
+.handshake {
+  bottom: 35%;
+  left: 60%;
+}
+
+.frontend {
+  top: 30%;
+  left: 20%;
+}
+
+.gamedev {
+  top: 70%;
+  left: 20%;
+}
+
+.skillimg {
+  width: 280px;
+}
+
+hr {
+  width: 60%;
+}
